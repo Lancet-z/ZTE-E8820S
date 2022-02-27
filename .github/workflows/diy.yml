@@ -13,7 +13,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 开始编译DIY固件
+name: Openwrt固件编译
 
 on:
   repository_dispatch:
