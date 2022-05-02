@@ -1,6 +1,6 @@
 #!/bin/bash
 #新的argon主题
-rm -rf ./package/lean/luci-theme-argon
+#rm -rf ./package/lean/luci-theme-argon
 #rm -rf ./package/lean/luci-app-jd-dailybonus
 # Add a feed source
 #sed -i 's/PATCHVER:=5.10/PATCHVER:=5.4/g' target/linux/x86/Makefile
@@ -15,7 +15,7 @@ echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git' >>fe
 #echo 'src-git Fuyuko https://github.com/Lancet-z/luci-theme-Fuyuko.git' >>feeds.conf.default
 #echo 'src-git idol https://github.com/Lancet-z/luci-theme-idol.git' >>feeds.conf.default
 #echo 'src-git Valkyrie https://github.com/Lancet-z/luci-theme-Valkyrie.git' >>feeds.conf.default
-echo 'src-git Rinze https://github.com/Lancet-z/luci-theme-Rinze.git' >>feeds.conf.default
+#echo 'src-git Rinze https://github.com/Lancet-z/luci-theme-Rinze.git' >>feeds.conf.default
 #废弃部分
 #echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
 #echo 'src-git jerryk https://github.com/jerrykuku/openwrt-package' >>feeds.conf.default
